@@ -1,0 +1,17 @@
+{
+  "title": "Elon Musk",
+  "subtitle": "Visionary, Entrepreneur, Innovator",
+  "genre": "Biography",
+  "author": "Walusimbi Leon (SGSS)",
+  "description": "The visionary behind Tesla, SpaceX, and Twitter/X — the story of how a boy from Pretoria became the wealthiest human in recorded history and reshaped the modern world.",
+  "style": "Authoritative, engaging, journalistic prose. Factual, with narrative drive.",
+  "characters": "Elon Musk and the people around him.",
+  "setting": "Pretoria, California, Texas, and the world.",
+  "notes": "The book has 15 planned chapters and is roughly two-thirds written (ends around the Twitter/X acquisition era). Continue with the remaining chapters: controversies, wealth and empire, famous quotes, legacy and future. Keep it factual and balanced.",
+  "chapterTitle": "Chapter",
+  "mdFiles": ["v1.0/book.html"],
+  "htmlFiles": [],
+  "indexInject": null,
+  "mdHeadingLevel": 2,
+  "targetWords": 2000
+}
